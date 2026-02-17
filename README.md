@@ -7,19 +7,19 @@
 ---
 Cybersecurity student and developer focused on building practical security tools and real-world applications. My work combines security analysis, backend logic, and mobile development.
 
-I built a Python SOC Log Analyzer that detects brute-force attacks using time-window analysis, severity scoring, and automated reporting with GeoIP enrichment — simulating real SOC workflows.
+I created a Python SOC Log Analyzer that detects brute-force attacks using time-based analysis, severity scoring, and GeoIP enrichment — simulating real SOC workflows.
 
-I am also developing a mobile small-group application using React Native and Supabase, implementing authentication, backend integration, and scalable user management.
+Currently developing a mobile small-group app using React Native and Supabase, implementing authentication, backend integration, and scalable user management.
 
-Previously, I created a 2D arcade game in Python using Pygame, demonstrating object-oriented programming, event handling, and game logic design.
+Previously built a 2D arcade game in Python, demonstrating object-oriented programming and application logic.
 
-My interests include:
+Focus Areas
+
 • Security monitoring and threat detection
 • Python automation and tool development
-• Mobile app development
-• Backend systems and authentication
+• Mobile and backend application development
 
-Currently preparing for a career as a SOC Analyst / Security Engineer, while continuing to build tools and applications that strengthen my technical depth.
+Preparing for a career as a SOC Analyst / Security Engineer while continuing to build practical security-focused projects.
 
 ## 🔥 GitHub Streak
 
