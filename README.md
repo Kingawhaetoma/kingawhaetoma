@@ -14,7 +14,6 @@ Currently developing a mobile small-group app using React Native and Supabase, i
 Previously built a 2D arcade game in Python, demonstrating object-oriented programming and application logic.
 
 Focus Areas
-
 • Security monitoring and threat detection
 • Python automation and tool development
 • Mobile and backend application development
