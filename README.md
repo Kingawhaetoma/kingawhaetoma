@@ -5,12 +5,11 @@
 🚀 Builder | Developer | Learner  
 
 ---
-
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kingawhaetoma&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=kingawhaetoma&show_icons=true)
 
 ## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=kingawhaetoma&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=kingawhaetoma)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingawhaetoma&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingawhaetoma&layout=compact)
