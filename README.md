@@ -1,40 +1,23 @@
+# 👋 Hi, I'm King Awhaetoma
 
-# King Awhaetoma
-
-Cybersecurity Student | App Developer | Ball State University
-
----
-
-## About Me
-
-I’m a cybersecurity student passionate about building secure applications and mobile apps.
-
-Currently working on:
-
-• Small Group Mobile App  
-• Cybersecurity Labs  
-• Security+ Certification  
+🎓 Cybersecurity Student  
+🔐 Future SOC Analyst  
+🚀 Builder | Developer | Learner  
 
 ---
 
-## Tech Stack
+## 📊 GitHub Stats
 
-![React](https://img.shields.io/badge/React-blue)
-![React Native](https://img.shields.io/badge/React%20Native-blue)
-![Supabase](https://img.shields.io/badge/Supabase-green)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
+![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingawhaetoma&show_icons=true&theme=tokyonight)
 
 ---
 
-## GitHub Stats
+## 🔥 GitHub Streak
 
-![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingawhaetoma&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kingawhaetoma&theme=tokyonight)
 
 ---
 
-## Current Projects
+## 💻 Top Languages
 
-• Small Group App  
-• Cybersecurity Home Lab  
-• Security Tools  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingawhaetoma&layout=compact&theme=tokyonight)
